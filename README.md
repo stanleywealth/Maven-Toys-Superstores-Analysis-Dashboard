@@ -36,13 +36,13 @@ The sales page gives information about the total sales by year, month and week, 
 ![Maven Toys Superstores Sales Analysis Screenshot](https://github.com/user-attachments/assets/891a1724-5908-4979-82f0-c7c411c93e39)
 
 
-#### Inventory Page : 
+#### Inventory Page: 
 This page shows visuals of the top stores by their stock, product category by amount of stock, and a table showing product in stock vs unit sold. It also shows total stock at hand and total unit sold.
 
 ![Maven Toys Superstores Inventory Analysis Screenshot](https://github.com/user-attachments/assets/f1e65a3d-c6e9-436a-acc4-568739c8c87a)
 
 
-#### Stores Page : 
+#### Stores Page: 
 This page analysis stores by showing insights on number of stores by store category, detail figues on each store in terms of unit sold, total sales and stoct at hand.
 
 ![Maven Toys Superstores Stores Analysis Screenshot](https://github.com/user-attachments/assets/08b773d4-8755-44c5-a734-6c961f6409c1)
