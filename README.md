@@ -23,13 +23,13 @@ This page give an overview of sales, profit, total unit of products sold, stock 
 ![Maven Toys Superstores Dashboard Screenshot](https://github.com/user-attachments/assets/cec18421-0bb1-4f8a-9fb3-ac47ebf2356b)
 
 
-#### Products Page : 
+#### Products Page: 
 This page gives important details about the company products, such as top selling products, sales by month, sales by product category, number of products, and unit sold.
 
 ![Maven Toys Superstores Products Analysis Screenshot](https://github.com/user-attachments/assets/b0a73124-a20d-4160-bd52-7719aa9bc56c)
 
 
-#### Sales Page : 
+#### Sales Page: 
 
 The sales page gives information about the total sales by year, month and week, the top selling products, top 10 stores by sales.
 
