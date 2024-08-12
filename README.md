@@ -12,7 +12,7 @@ The goal of this dashboard is to have a standard analysis dashboard where all sa
 - [Stores Page](#stores-page)
 - [Tools used for the project](#tools-used-for-the-project)
 - [Visualization](#visualization)
-- [Results/Findings](#results/findings)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
@@ -56,7 +56,7 @@ Excel and PowerBI. Excel for data inspection and preparation, while Power BI for
 Visualizations were done for the four pages (Products page, sales page, inventory page, and stores page). Images above are the visualizations of each pages. Below are the findings of the visualizations.
 
 
-### Results/Findings
+### Results and Findings
 
 1. From the sales dashboard analysis, it was discorvered that in the year 2017 total sales for all quarters was 7.5 million and total profit was $2.19 million, while in the year 2018 the total sales foronly first, second and third quarters was 7.0 million and total profit was $1.82 million. This simply means that 2018 was on tract to be more profitable for the company that year 2017.
 2. Also I found out that the toys category brought in the most sales and profit than the Arts & Craft, Electronics, Games, Sports & Outdoors categories.
