@@ -1,4 +1,4 @@
-# Maven Toys Superstores Sales, Products, Inventory & Stores Analysis Dasboard
+# Maven Toys Superstores: Sales, Products, Inventory, & Stores Analysis Dashboards
 
 
 ### Project Overview
