@@ -8,6 +8,7 @@ The goal of this dashboard is to have a standard analysis dashboard where all sa
 
 ## Table of content
 
+- [Dashboard Overview](#dashboard-overview)
 - [Products Page](#products-page)
 - [Sales Page](#sales-page)
 - [Inventory Page](#inventory-page)
